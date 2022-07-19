@@ -1,6 +1,6 @@
 
 #################
-# Sir/Mam i have very basic understanding of api and flask and have tried my best to solve this assignment
+# Sir/Mam i have very basic understanding of api,flask and have tried my best to solve this assignment
 # All test cases are passed
 # Run acceptance_test.py along with this file
 
