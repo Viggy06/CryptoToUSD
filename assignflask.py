@@ -1,6 +1,5 @@
 
 #################
-# Sir/Mam i have very basic understanding of api,flask and have tried my best to solve this assignment
 # All test cases are passed
 # Run acceptance_test.py along with this file
 
@@ -10,8 +9,6 @@ import requests
 from pycoingecko import CoinGeckoAPI
 
 app = Flask(__name__)
-# logging.basicConfig(stream=sys.stdout, level=logging.DEBUG, format=f'%(asctime)s  %(message)s')
-# logger = logging.getLogger(__name__)
 
 @app.route("/", methods=["GET"]) #/exchange/?coin=bt
 def WelcomeMessage():
